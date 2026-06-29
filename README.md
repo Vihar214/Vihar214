@@ -3,20 +3,16 @@
 </h1>
 
 <h3 align="center">
-  Fullstack Developer & DevOps Enthusiast &nbsp;|&nbsp; 1.5 Years Building Things That Ship
+  Fullstack Engineer · NestJS · React Native · Microservices
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
+  <a href="https://linkedin.com/in/Vihar-patel">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:[YOUR_EMAIL]">
+  <a href="mailto:viharpatel214@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://[YOUR_PORTFOLIO_URL]">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Vihar214&style=for-the-badge&color=6366f1" alt="profile views" />
@@ -24,26 +20,24 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a fullstack developer with **1.5 years of experience** building end-to-end web applications — from pixel-perfect UIs to production-ready backends and CI/CD pipelines.
+Fullstack engineer with 1.5 years of production experience. I've shipped features across a 25+ microservice KYB/KYC platform — backend APIs in NestJS, async messaging with RabbitMQ, session caching with Redis, mobile in React Native, and a full GitLab CI/CD pipeline with a self-hosted runner.
 
-- 🏢 Currently: **[Your Role / Company or "Open to opportunities"]**
-- 🎓 **[Your Degree]** — [Your College Name]
-- 🌍 Based in **Ahmedabad, India**
-- 🔭 Building: **[Your current project or focus area]**
-- 🌱 Learning: **[e.g., Kubernetes, AWS, System Design]**
-- 💬 Ask me about: **React, Node.js, NestJS, TypeScript, Go, Docker**
-- 📫 Reach me at: **[your@email.com]**
+Outside work I pick things up, currently exploring Go and systems programming.
+
+- 🏢 Software Engineer at **eSparkBiz**
+- 🎓 B.E. Information Technology — Madhuben & Bhanubhai Patel Institute of Technology
+- 📫 viharpatel214@gmail.com
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -52,8 +46,8 @@ I'm a fullstack developer with **1.5 years of experience** building end-to-end w
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Databases**
 
@@ -61,26 +55,26 @@ I'm a fullstack developer with **1.5 years of experience** building end-to-end w
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**DevOps & Tools**
+**Infrastructure & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**Project Name**](https://github.com/Vihar214/repo-name) | What it does in one line | React, Node, Postgres |
-| [**Project Name**](https://github.com/Vihar214/repo-name) | What it does in one line | NestJS, Docker |
-| [**Project Name**](https://github.com/Vihar214/repo-name) | What it does in one line | Go, REST API |
+| [**Crowd-Room-ws**](https://github.com/Vihar214/crowd-room-ws) | Real-time WebSocket server with dynamic channel creation and concurrent room broadcasting | Go, WebSockets |
+| [**gask**](https://github.com/Vihar214/gask) | CLI task manager with per-project organization, CRUD operations, and test coverage | Go, Ent ORM |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vihar214&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
@@ -94,14 +88,6 @@ I'm a fullstack developer with **1.5 years of experience** building end-to-end w
 
 ---
 
-## 💼 Experience
-
-**[Job Title]** — [Company Name] *(Month Year – Month Year)*
-- What you built / owned (1-2 lines)
-- Impact if possible (e.g. "reduced API response time by 40%")
-
----
-
 <p align="center">
-  <i>Open to Fullstack & DevOps roles — let's connect!</i>
+  <i>Open to fullstack and backend roles — remote or Pune/Bangalore/Hyderabad</i>
 </p>
